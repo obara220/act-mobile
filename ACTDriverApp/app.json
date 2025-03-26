@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ActDriver",
+    "slug": "ActDriver",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/app.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.act.actdriver"
+    },
+    "web": {
+      "favicon": "./assets/app.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb0da4bf-0ee0-43f8-8cf6-0be308e24b80"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ActCrew",
+    "slug": "ActCrew",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/app.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.act.actcrew"
+    },
+    "web": {
+      "favicon": "./assets/app.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30cae544-c69a-412e-9387-652f1b08d489"
+      }
+    }
+  }
+}
